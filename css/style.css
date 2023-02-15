@@ -1,0 +1,26 @@
+.container{
+    background-color: #f5f5dd;
+    width: 200px;
+    height: auto;
+}
+div{
+    width: 100px;
+    height: 100px;
+    background-color: black;
+    margin-bottom: 10px;
+    padding-left: 8%;
+    padding-top: 5%;
+    padding-bottom: 5%;
+ }
+ .div1{
+    background-color:rgba(0, 0, 0, 80%)
+ }
+ .div2{
+    background-color:rgba(0, 0, 0, 60%)
+ }
+ .div3{
+    background-color:rgba(0, 0, 0, 40%)
+ }
+ .div4{
+    background-color:rgba(0, 0, 0, 20%)
+ }
